@@ -1,0 +1,29 @@
+=meta: 0.0.1
+
+name: Pegex-CPAN-Packages
+version: 0.01
+abstract: Pegex Parser for 02packages.txt
+homepage: http://pegex.org
+
+license: perl
+copyright: 2014. Ingy döt Net.
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+  homepage: http://ingy.net
+
+requires:
+  perl: 5.8.1
+  Pegex: 0.40
+
+devel:
+  git: https://github.com/ingydotnet/pegex-cpan-packages-pm
+  bug: https://github.com/ingydotnet/pegex-cpan-packages-pm/issues
+  irc: irc.freenode.net#pegex
+
+=travis:
+  type: perl
+  irc: irc.freenode.net#pegex
