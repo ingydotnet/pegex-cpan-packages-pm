@@ -1,4 +1,9 @@
 ---
+version: 0.02
+date:    Wed Jul 23 14:31:34 PDT 2014
+changes:
+- Inline text and grammar into Grammar class.
+---
 version: 0.01
 date:    Tue Jul 22 19:04:24 PDT 2014
 changes:

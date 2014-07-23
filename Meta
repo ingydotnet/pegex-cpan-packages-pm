@@ -1,7 +1,7 @@
 =meta: 0.0.1
 
 name: Pegex-CPAN-Packages
-version: 0.01
+version: 0.02
 abstract: Pegex Parser for 02packages.txt
 homepage: http://pegex.org
 
@@ -17,7 +17,7 @@ author:
 
 requires:
   perl: 5.8.1
-  Pegex: 0.40
+  Pegex: 0.43
 
 devel:
   git: https://github.com/ingydotnet/pegex-cpan-packages-pm
