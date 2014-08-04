@@ -1,5 +1,5 @@
 package Pegex::CPAN::Packages;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Pegex::Base;
 
